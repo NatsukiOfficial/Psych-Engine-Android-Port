@@ -395,8 +395,8 @@ class PlayState extends MusicBeatState
 				}
 
 			case 'alley': //Week 1
-				var bg:BGSprite = new BGSprite('Hypno bg background', -600, -200, 0.9, 0.9);
-				add(bg);
+				var Hypno bg background:BGSprite = new BGSprite('Hypno bg background', -600, -200, 0.9, 0.9);
+				add(Hypno bg background);
 
                         case 'spooky': //Week 2
 				if(!ClientPrefs.lowQuality) {
