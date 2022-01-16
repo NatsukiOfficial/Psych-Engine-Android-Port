@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-108
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Yuri left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-98
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Yuri down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				-35
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Yuri up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-146,
+				-118
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Yuri right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-115,
+				-144
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Yuri idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-120,
+				-89
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-120,
+				-88
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-120,
+				-89
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-120,
+				-88
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				140,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yuri",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "yuri",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		114,
+		210
+	],
+	"camera_position": [
+		200,
+		31
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
